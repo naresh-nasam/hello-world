@@ -1,5 +1,4 @@
 # hello-world
-sample project,
 
 first time using github, 
 
